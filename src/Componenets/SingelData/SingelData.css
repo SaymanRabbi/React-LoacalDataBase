@@ -1,0 +1,11 @@
+.product {
+  margin: 20px;
+  border: 2px solid rebeccapurple;
+  padding: 10px;
+  border-radius: 20px;
+}
+.product h2 {
+  color: blueviolet;
+  font-size: 30px;
+  text-transform: uppercase;
+}
